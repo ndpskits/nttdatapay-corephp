@@ -1,7 +1,7 @@
-# ntt-corephp
+# nttdatapay-corephp
 
 ## Prerequisites
-- PHP version 7.3 to 8.3
+- PHP version 7.3 to 8.4.4
 - UAT MID and keys provided by the NDPS team
 
 ## Project Structure
